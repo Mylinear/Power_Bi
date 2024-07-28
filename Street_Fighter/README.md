@@ -1,6 +1,6 @@
 # Street Fighter Power BI Dashboard
 
-Welcome to the Street Fighter Power BI Dashboard repository! This project showcases a dynamic and insightful dashboard that analyzes various aspects of the classic Street Fighter game. Dive into the data to discover trends, player statistics, and much more.
+Welcome to the Street Fighter Power BI Dashboard repository! This project was created for entertainment purposes. You can checkout the original Qlik version from Luis Felipe Tensini and the PowerBI version by Injae Park
 
 ![Street Fighter](https://github.com/Mylinear/Power_Bi/blob/main/Street_Fighter/streetfighter.jpg)
 
