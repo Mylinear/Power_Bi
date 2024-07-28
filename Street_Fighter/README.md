@@ -49,7 +49,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 - Special thanks to the Power BI community for their support and resources.
-- Street Fighter © Capcom.
+- Checkout the original Qlik version from Luis Felipe Tensini and the PowerBI version by Injae Park
 
 ---
 
