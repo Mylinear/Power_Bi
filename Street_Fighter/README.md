@@ -4,11 +4,7 @@ Welcome to the Street Fighter Power BI Dashboard repository! This project showca
 
 ![Street Fighter](https://github.com/Mylinear/Power_Bi/blob/main/Street_Fighter/streetfighter.jpg)
 
-## Features
 
-- **Comprehensive Analysis**: Detailed statistics on player performance, game outcomes, and character usage.
-- **Interactive Visuals**: Engage with interactive charts and graphs for deeper insights.
-- **User-Friendly Interface**: Navigate through the dashboard with ease to find the information you need.
 
 ## Demo Video
 
@@ -18,7 +14,6 @@ Check out this demo video to see the dashboard in action:
 https://github.com/user-attachments/assets/83797c2c-d089-4b41-8c48-61c0e173a471
 
 
-[![Street Fighter Power BI Dashboard](https://github.com/Mylinear/Power_Bi/blob/main/Street_Fighter/streetfighter.mp4)
 
 ## Getting Started
 
@@ -38,13 +33,10 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 2. Open the `StreetFighterDashboard.pbix` file in Power BI Desktop.
 
-## Usage
-
-Explore the various tabs and visuals in the Power BI dashboard to gain insights into the Street Fighter game.
 
 ## Connect with Me
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mustafayasinkunduz) for any queries or further discussion.
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mustafayasingunduz) for any queries or further discussion.
 
 ## Contributing
 
