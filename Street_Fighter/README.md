@@ -14,6 +14,10 @@ Welcome to the Street Fighter Power BI Dashboard repository! This project showca
 
 Check out this demo video to see the dashboard in action:
 
+
+https://github.com/user-attachments/assets/83797c2c-d089-4b41-8c48-61c0e173a471
+
+
 [![Street Fighter Power BI Dashboard](https://github.com/Mylinear/Power_Bi/blob/main/Street_Fighter/streetfighter.mp4)
 
 ## Getting Started
