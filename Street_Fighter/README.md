@@ -13,9 +13,8 @@ Check out this demo video to see the dashboard in action:
 
 
 
-Uploading street.mp4…
 
-
+https://github.com/user-attachments/assets/3434d367-d0be-4a66-900e-47cba6efb4c8
 
 
 
@@ -34,10 +33,10 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/street-fighter-dashboard.git
+    git clone https://github.com/Mylinear/Power_Bi/tree/main/Street_Fighter
     ```
 
-2. Open the `StreetFighterDashboard.pbix` file in Power BI Desktop.
+2. Open the `Street Fighter.pbix` file in Power BI Desktop.
 
 
 ## Connect with Me
