@@ -2,7 +2,7 @@
 
 Welcome to the Street Fighter Power BI Dashboard repository! This project showcases a dynamic and insightful dashboard that analyzes various aspects of the classic Street Fighter game. Dive into the data to discover trends, player statistics, and much more.
 
-![Street Fighter](path_to_image.jpg)
+![Street Fighter](https://github.com/Mylinear/Power_Bi/blob/main/Street_Fighter/streetfighter.jpg)
 
 ## Features
 
