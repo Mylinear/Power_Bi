@@ -11,7 +11,9 @@ Welcome to the Street Fighter Power BI Dashboard repository! This project was cr
 Check out this demo video to see the dashboard in action:
 
 
-https://github.com/user-attachments/assets/83797c2c-d089-4b41-8c48-61c0e173a471
+
+https://github.com/user-attachments/assets/9cedcae8-e990-42bc-9743-a07f27799b96
+
 
 
 
