@@ -6,9 +6,8 @@
 
 This repository contains my solutions to the **Workout Wednesday** challenges, designed to improve data visualization skills in Power BI.
 
-## About
-
-**Workout Wednesday** is a weekly challenge focused on re-creating complex data-driven visualizations. Each folder in this repository corresponds to a specific challenge, complete with the PowerBI workbook and any additional resources used in the solution.
+## About Workout Wednesday
+[Workout Wednesday](https://www.workout-wednesday.com) is a weekly challenge series aimed at helping data enthusiasts and professionals improve their data visualization skills using tools like Tableau and Power BI. Each week, a new challenge is posted, offering participants an opportunity to hone their skills by tackling real-world scenarios and complex data sets.
 
 ## Connect with Me
 
@@ -25,12 +24,11 @@ Enjoy exploring the solutions, and feel free to reach out if you have any questi
 
 # ![Workout Wednesday](https://www.workout-wednesday.com/wp-content/uploads/2021/08/cropped-favicon-180x180.png) Power BI Challenges Repository
 
-## About Workout Wednesday
-[Workout Wednesday](https://www.workout-wednesday.com) is a weekly challenge series aimed at helping data enthusiasts and professionals improve their data visualization skills using tools like Tableau and Power BI. Each week, a new challenge is posted, offering participants an opportunity to hone their skills by tackling real-world scenarios and complex data sets.
+
 
 ## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-yasin-gunduz/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mustafayas)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafayasingunduz/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mylinear)
 
 ## Project Overview
 | **Project Name** | **Description** | **Dataset** | **GitHub Link** |
