@@ -1,4 +1,4 @@
-# ![Workout Wednesday](https://www.workout-wednesday.com/wp-content/uploads/2021/08/cropped-favicon-180x180.png) Workout Wednesday 2021 Week 3 | Power BI: Report Interactivity
+# ![Workout Wednesday](https://workout-wednesday.com/wp-content/uploads/2019/12/wow2020_logo-120x40.png) Workout Wednesday 2021 Week 3 | Power BI: Report Interactivity
 
 ## About the Challenge
 This repository contains my solution to the **Workout Wednesday 2021 Week 3** challenge, which focuses on enhancing report interactivity in Power BI. The challenge is designed to help participants improve their skills in creating interactive and user-friendly reports that allow end-users to explore data dynamically.
