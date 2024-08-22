@@ -19,7 +19,7 @@ This repository includes the following files:
 - **Documentation**: A brief explanation of the steps taken to complete the challenge.
 
 ## GIF Demonstration
-![KPI Report Overview](path/to/your-gif-file.gif)
+![week2](https://github.com/user-attachments/assets/fcb5249f-c736-4d40-b9b6-966a27e021ba)
 
 *This GIF provides a visual overview of the KPI report, showcasing the interactive features and key metrics.*
 
