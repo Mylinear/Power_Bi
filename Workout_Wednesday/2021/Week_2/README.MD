@@ -24,11 +24,12 @@ This repository includes the following files:
 *This GIF provides a visual overview of the KPI report, showcasing the interactive features and key metrics.*
 
 ## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-yasin-gunduz/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mustafayas)
+## Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafayasingunduz/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mylinear)
 
 ## How to Use This Repository
 1. **Clone the Repository**: Use the following command to clone the repository:
    ```bash
-   git clone https://github.com/mustafayas/your-repository.git
+   git clone https://github.com/Mylinear/Power_Bi.git
 
