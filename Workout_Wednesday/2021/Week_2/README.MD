@@ -1,4 +1,4 @@
-# ![Workout Wednesday](https://www.workout-wednesday.com/wp-content/uploads/2021/08/cropped-favicon-180x180.png) Workout Wednesday 2021 Week 2 | Power BI: Creating Basic KPI Report
+# ![Workout Wednesday](https://workout-wednesday.com/wp-content/uploads/2019/12/wow2020_logo-120x40.png) Workout Wednesday 2021 Week 2 | Power BI: Creating Basic KPI Report
 
 ## About the Challenge
 This repository contains my solution to the **Workout Wednesday 2021 Week 2** challenge, which focuses on creating a basic KPI report in Power BI. The challenge is designed to enhance participants' skills in building Key Performance Indicators (KPIs) to measure performance against specific goals and to visualize these metrics effectively.
