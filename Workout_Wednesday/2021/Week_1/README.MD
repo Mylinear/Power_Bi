@@ -26,4 +26,4 @@ This repository includes the following files:
 ## How to Use This Repository
 1. **Clone the Repository**: Use the following command to clone the repository:
    ```bash
-   git clone https://github.com/Mylinear/Power_Bi/tree/main/Workout_Wednesday.git
+   git clone https://github.com/Mylinear/Power_Bi.git
